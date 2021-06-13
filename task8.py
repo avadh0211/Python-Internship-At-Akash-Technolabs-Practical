@@ -1,5 +1,5 @@
-a = int(input("enter first no : "))
-b = int(input("enter second no : "))
+a = int(input("enter first number : "))
+b = int(input("enter second number : "))
 
 if a<b:
     print("{} is smallest number : ".format(a))
